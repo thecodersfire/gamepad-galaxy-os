@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for controller gaming:
 3. **ProtonUp-Qt** — net.davidotek.pupgui2
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for controller gaming:
+
+1. **OBS Studio** — record or stream sessions (com.obsproject.Studio)
+2. **VLC** — review media files (org.videolan.VLC)
+3. **Godot Engine** — build and test 2D and 3D games (org.godotengine.Godot)
+4. **Blender** — create 3D assets and animations (org.blender.Blender)
+5. **VSCodium** — edit code and project files (com.vscodium.codium)
+6. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+7. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+8. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+9. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+10. **Flatseal** — review Flatpak app permissions (com.github.tchx84.Flatseal)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.

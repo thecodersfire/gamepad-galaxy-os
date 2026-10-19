@@ -4,7 +4,19 @@ com.heroicgameslauncher.hgl
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 net.lutris.Lutris
 com.usebottles.bottles
 net.davidotek.pupgui2
+
+# Ten additional preinstalled purpose-specific applications
+com.obsproject.Studio
+org.videolan.VLC
+org.godotengine.Godot
+org.blender.Blender
+com.vscodium.codium
+org.gnome.Boxes
+org.gnome.Logs
+org.gnome.Calculator
+org.gnome.baobab
+com.github.tchx84.Flatseal
