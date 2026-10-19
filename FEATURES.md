@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/gamepad-galaxy-os-workspace features/gamepad-galaxy-os-plan features/gamepad-galaxy-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for controller gaming:
+
+1. **Lutris** — net.lutris.Lutris
+2. **Bottles** — com.usebottles.bottles
+3. **ProtonUp-Qt** — net.davidotek.pupgui2
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

@@ -24,3 +24,9 @@ The `gamepad-galaxy.svg` wallpaper is original. Gamepad Galaxy OS is an independ
 
 See [FEATURES.md](FEATURES.md) for three local tools included for controller gaming.
 
+
+The installer also includes three purpose-specific applications: **Lutris, Bottles, ProtonUp-Qt**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Lutris, Bottles, ProtonUp-Qt**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Lutris, Bottles, ProtonUp-Qt**. See [FEATURES.md](FEATURES.md).
